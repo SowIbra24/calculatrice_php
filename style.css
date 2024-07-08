@@ -1,0 +1,44 @@
+/* Déclarez les styles ici */
+
+		h1
+		{
+			text-align : center;
+			border : 3px solid blue;
+
+		}
+
+		p
+		{
+			background-color: rgb(174,214,241);
+			color : blue;
+			text-align : center;
+			font-style: oblique;
+
+		}
+
+		div
+		{
+			background-color: rgb(52,152,219);
+			color : white;
+			border-radius : 40px;
+			padding-bottom : 1%;
+			font-size : 1.5em;
+			text-align : center;
+		}
+
+		.par
+
+		{
+			background-color: rgb(174,214,241);
+			color : blue;
+		}
+		body
+		{
+			margin-left : 30%;
+			margin-right : 30%;
+		}
+
+		#pa
+		{
+			text-align : left;
+		}
