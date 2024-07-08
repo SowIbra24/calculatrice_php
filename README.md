@@ -1,2 +1,2 @@
 # calculatrice_php
-same calculator in php
+same calculator as the js one but in php
